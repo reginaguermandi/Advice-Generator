@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://reginaguermandi.github.io/Advice-Generator/)
 
 ### Built with
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/reginaguermandi)
+- Frontend Mentor - [@reginaguermandi](https://www.frontendmentor.io/profile/reginaguermandi)

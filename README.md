@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://reginaguermandi.github.io/Advice-Generator/)
+- Live Site URL: [https://reginaguermandi.github.io/Advice-Generator/](https://reginaguermandi.github.io/Advice-Generator/)
 
 ### Built with
 
